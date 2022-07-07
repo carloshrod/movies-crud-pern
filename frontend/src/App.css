@@ -81,12 +81,13 @@ label {
 
 .navbar .btn-link {
   color: white;
-  font-size: 14px;
+  font-size: 0.88rem;
   font-weight: bold;
   text-decoration: none;
   border: 1px solid;
   border-radius: 10px;
   padding: 12px;
+  line-height: 60px;
 }
 
 .nav-links {
@@ -99,21 +100,11 @@ label {
 
 @media (max-width: 500px) {
   .navbar .logo {
-    font-size: 20px;
-  }
-
-  .navbar .home-icon {
-    font-size: 25px;
+    font-size: 1.3rem;
   }
 
   .navbar .btn-link {
-    color: white;
-    font-size: 12px;
-    font-weight: bold;
-    text-decoration: none;
-    border: 1px solid;
-    border-radius: 7px;
-    padding: 8px;
+    font-size: 0.6rem;
   }
 
   .navbar a:hover {
