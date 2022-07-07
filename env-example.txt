@@ -1,0 +1,7 @@
+NODE_ENV=production
+CLOUD_NAME=<Cloudinary-CloudName>
+CLOUD_API_KEY=<Cloudinary-ApiKey>
+CLOUD_API_SECRET=<Cloudinary-ApiSecret>
+DATABASE_URL=<Postgres-URI>
+
+URI para Postgres local -> postgres://postgres:[secretpassword]@localhost:5432/[dbname]
