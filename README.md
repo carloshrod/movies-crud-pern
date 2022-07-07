@@ -24,5 +24,5 @@ Típica aplicación CRUD, donde se puede crear, visualizar, actualizar y elimina
 2. Crear una base de datos **Postgres** local o en **HerokuPostgres**, con la estructura descrita en el archivo **db.sql** (backend).
 3. Configurar una cuenta en [Cloudinary](https://cloudinary.com/). Habilitar el "unsigned uploading".
 4. Configurar las variables de entorno descritas en el archivo **env-example.txt** (backend). Si la base de datos es local configurar el **pool** en **db.js** con **ssl: false**.
-5. Ejecutar el comando **npm install** y **npm run build** o sus equivalentes en **yarn**, desde la ruta del frontend **/movies-crud-pern/frontend**
+5. Ejecutar los comandos **npm install** y **npm run build** o sus equivalentes en **yarn**, desde la ruta del frontend **/movies-crud-pern/frontend**
 6. Ejecutar los comandos **npm install** y **npm start** o sus equivalentes en **yarn**, desde la ruta raíz del proyecto **/movies-crud-pern**.
