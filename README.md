@@ -1,5 +1,5 @@
 # Movies CRUD
-Típica aplicación CRUD, donde se puede crear, visualizar, actualizar y eliminar datos (películas).
+Aplicación **CRUD** desarrollada con el stack **PERN**, donde se puede crear, visualizar, actualizar y eliminar datos (películas).
 
 ## Funciones Adicionales
 * Subir poster para cada película y visualizarlo en el formulario.
